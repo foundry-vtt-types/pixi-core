@@ -47,6 +47,6 @@
     "@pixi/runner": "7.4.3",
     "@pixi/settings": "7.4.3",
     "@pixi/ticker": "7.4.3",
-    "@pixi/utils": "7.4.3"
+    "@pixi/utils": "github:foundry-vtt-types/pixi-utils#main"
   }
 }
